@@ -25,7 +25,7 @@ export default function Home({ data }) {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          THIS IS PLAN B
+          There's no plan B
         </h1>
 
         <p className={styles.description}>
