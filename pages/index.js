@@ -24,9 +24,7 @@ export default function Home({ data }) {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          No plan BLABLA
-        </h1>
+
 
         <p className={styles.description}>
           Get started by editing{' '}
