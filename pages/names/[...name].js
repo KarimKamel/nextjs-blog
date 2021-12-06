@@ -37,7 +37,7 @@ export default function Name({ name }) {
     return (
         <>
             {/* {name.map(n => <p>{n}</p>)} */}
-            {name && name.map(n => <p>{n}</p>)}
+            {name && name.map(n => <p key={n}>{n}</p>)}
             <h1>names</h1>
         </>
 
